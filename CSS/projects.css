@@ -1,0 +1,60 @@
+.projects {
+	
+	display: flex;
+	justify-content: center;
+	font-family: Montserrat;
+
+}
+
+.projects > div{
+	
+	margin-left: 20px;
+	
+}
+
+.project {
+	
+	padding: 64px 32px;
+	background: #131313;
+	border-radius: 15px;
+	
+}
+
+.ic-logo {
+	
+	height: 190px;
+	
+}
+
+.tstp-logo {
+	
+	height: 200px;
+	
+}
+
+.project h3 {
+	
+	text-align: center;
+    color: white;
+    font-size: 24px;
+	font-weight: 700;
+
+}
+
+.center {
+
+	text-align: center;
+	
+}
+
+.links	{
+	
+	cursor: pointer;
+	text-decoration: none;
+	padding: 8px 13px;
+	background-color: #4078ff;
+    border-radius: 10px;
+	text-align: center;
+	position: relative;
+	
+}
