@@ -58,3 +58,20 @@
 	position: relative;
 	
 }
+
+@media (max-width: 480px) {
+	
+	.projects {
+		
+		align-items: flex-start;
+		display: inline;
+		
+		
+	}
+	
+	.projects > div{
+	
+	margin-bottom: 20px;
+	
+}
+}
