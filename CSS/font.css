@@ -20,3 +20,14 @@ a {
     font-family: Montserrat;
     font-size: 18px;
 }
+
+.infinityt {
+	
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+background-color: #74EBD5;
+background-image: linear-gradient(90deg, #4078ff 0%, #9FACE6 100%);
+
+
+	
+}
